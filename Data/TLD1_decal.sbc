@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Decals>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>28c15a33-99a7-1a25-3eef-8fc076e353a7_spray</SubtypeId>
+      </Id>
+      <Source>28c15a33-99a7-1a25-3eef-8fc076e353a7</Source>
+	  <Target>Default</Target>
+      <Material>
+	    <DecalType>NormalColorExtMap</DecalType>
+        <NormalmapTexture>Textures\MySprays\NoNormalMapHere</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\28c15a33-99a7-1a25-3eef-8fc076e353a7_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\28c15a33-99a7-1a25-3eef-8fc076e353a7_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>5000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+  </Decals>
+</Definitions>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TransparentMaterials>
+    <TransparentMaterial>
+	  <Id>
+        <TypeId>TransparentMaterialDefinition</TypeId>
+        <SubtypeId>cc2a8486-3005-29ce-1ea6-4cc6b111ea42_b</SubtypeId>
+      </Id>
+      <AlphaSaturation>1</AlphaSaturation>
+      <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+      <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+      <Texture>Textures\MySprays\cc2a8486-3005-29ce-1ea6-4cc6b111ea42_c.dds</Texture>
+	  <Reflectivity>1</Reflectivity>
+    </TransparentMaterial>
+  </TransparentMaterials>
+</Definitions>
