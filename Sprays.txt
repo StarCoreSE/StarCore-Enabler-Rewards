@@ -1,16 +1,11 @@
 [CYB1]
-ID=d6a98d4c-c168-e58d-d625-e78e2a36321a
+ID=60121ffb-f841-266e-a835-d33ca3e94c93
 Group=CYB
 Flags=0
 
 [MCR2]
 ID=1de9dc1b-6c57-9dae-0d5b-8abe75b10e13
 Group=MCR
-Flags=0
-
-[+_c2303c9f80a12bfd7b4e8383d148a969]
-ID=0737151e-078e-8210-2bf4-ef8ac6b0dce1
-Group=memes
 Flags=0
 
 [1513749234567]
@@ -25,11 +20,6 @@ Flags=0
 
 [1593704371389]
 ID=cbb75753-60ac-a0b6-41e0-a51d320697b8
-Group=memes
-Flags=0
-
-[1652348639314]
-ID=1150cd54-a267-88ec-dc80-03504ed40ee7
 Group=memes
 Flags=0
 
@@ -58,11 +48,6 @@ ID=5a57ca08-55c9-6f4b-5e16-bc44f997a6c3
 Group=memes
 Flags=0
 
-[22266075.91_image]
-ID=ed758883-efb7-525a-7067-cd6e1c2a662b
-Group=memes
-Flags=0
-
 [3b4]
 ID=803b9863-cb04-fb41-f8f9-8c28216a8217
 Group=memes
@@ -78,11 +63,6 @@ ID=a5aaf432-2b7e-f8b5-c1cb-b676ef58a8df
 Group=memes
 Flags=0
 
-[download (14)]
-ID=11a7c84c-599e-af15-9872-a0fb4fc53d30
-Group=memes
-Flags=0
-
 [Egg_logo_redux]
 ID=4d101276-d5fc-0de5-938e-7f01b95f5886
 Group=memes
@@ -92,16 +72,6 @@ Flags=0
 ID=17414c4e-a97e-4c3e-21c9-6d90e8b661e6
 Group=memes
 Flags=0
-
-[frustrated]
-ID=b4c408a9-3113-b9bf-90e8-fbe39024b0b2
-Group=memes
-Flags=0
-
-[HATEHEART]
-ID=b54d9f72-9664-f5b1-2760-187ac1889143
-Group=memes
-Flags=673185796
 
 [kinetic]
 ID=a8da817a-2e04-1aaf-b0c6-e73acb6b38e1

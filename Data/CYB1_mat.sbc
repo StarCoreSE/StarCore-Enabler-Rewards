@@ -4,12 +4,12 @@
     <TransparentMaterial>
 	  <Id>
         <TypeId>TransparentMaterialDefinition</TypeId>
-        <SubtypeId>d6a98d4c-c168-e58d-d625-e78e2a36321a_b</SubtypeId>
+        <SubtypeId>60121ffb-f841-266e-a835-d33ca3e94c93_b</SubtypeId>
       </Id>
       <AlphaSaturation>1</AlphaSaturation>
       <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
       <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-      <Texture>Textures\MySprays\d6a98d4c-c168-e58d-d625-e78e2a36321a_c.dds</Texture>
+      <Texture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_c.dds</Texture>
 	  <Reflectivity>1</Reflectivity>
     </TransparentMaterial>
   </TransparentMaterials>

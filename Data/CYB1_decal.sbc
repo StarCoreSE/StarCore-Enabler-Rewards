@@ -4,15 +4,15 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>d6a98d4c-c168-e58d-d625-e78e2a36321a_spray</SubtypeId>
+        <SubtypeId>60121ffb-f841-266e-a835-d33ca3e94c93_spray</SubtypeId>
       </Id>
-      <Source>d6a98d4c-c168-e58d-d625-e78e2a36321a</Source>
+      <Source>60121ffb-f841-266e-a835-d33ca3e94c93</Source>
 	  <Target>Default</Target>
       <Material>
 	    <DecalType>NormalColorExtMap</DecalType>
         <NormalmapTexture>Textures\MySprays\NoNormalMapHere</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\d6a98d4c-c168-e58d-d625-e78e2a36321a_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\d6a98d4c-c168-e58d-d625-e78e2a36321a_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
