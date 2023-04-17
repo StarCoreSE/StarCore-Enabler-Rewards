@@ -8,7 +8,7 @@
 			</Id>
 			<DisplayName>Generic Basic Flag Pole 45</DisplayName>
 			<Description>Generic Basic Flag Pole 45</Description>
-			<Icon>Textures\Icons\flaglong.png</Icon>
+			<Icon>Textures\GUI\Icons\AstronautBackpack.dds</Icon>
 			<CubeSize>Large</CubeSize>
 			<BlockTopology>TriangleMesh</BlockTopology>
 			<Size x="1" y="2" z="3"/>
