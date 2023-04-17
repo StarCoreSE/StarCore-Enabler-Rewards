@@ -11,7 +11,7 @@
 			<Icon>Textures\Icons\flaglong.png</Icon>
 			<CubeSize>Large</CubeSize>
 			<BlockTopology>TriangleMesh</BlockTopology>
-			<Size x="10" y="10" z="10"/>
+			<Size x="10" y="10" z="1"/>
 			<ModelOffset x="0" y="0" z="0"/>
 			<Model>Models\Billboard_Test.mwm</Model>
 			<Components>
