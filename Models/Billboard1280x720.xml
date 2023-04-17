@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Model Name="Generic_Banner_1x2">
+<Model Name="Billboard1280x720">
 	<Parameter Name="RescaleFactor">1.0</Parameter>
 	<Parameter Name="Centered">false</Parameter>
 	<Parameter Name="RescaleToLengthInMeters">false</Parameter>
