@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CubeBlocks>
+		<Definition>
+			<Id>
+				<TypeId>CubeBlock</TypeId>
+				<SubtypeId>Billboard1</SubtypeId>
+			</Id>
+			<DisplayName>Billboard1</DisplayName>
+			<Description>Billboard1</Description>
+			<Icon>Textures\Icons\flaglong.png</Icon>
+			<CubeSize>Large</CubeSize>
+			<BlockTopology>TriangleMesh</BlockTopology>
+			<Size x="10" y="10" z="10"/>
+			<ModelOffset x="0" y="0" z="0"/>
+			<Model>Models\Billboard_Test.mwm</Model>
+			<Components>
+				<Component Subtype="SteelPlate" Count="10"/>
+			</Components>
+			<CriticalComponent Subtype="SteelPlate" Index="0"/>
+			<BuildProgressModels>
+				<Model BuildPercentUpperBound="1.00" File="Models\Genric_Basic_Flag_Pole_45_BS1.mwm"/>
+			</BuildProgressModels>
+			<BlockPairName>Billboard1</BlockPairName>
+		</Definition>
+	</CubeBlocks>
+</Definitions>
