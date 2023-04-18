@@ -83,6 +83,11 @@ ID=17414c4e-a97e-4c3e-21c9-6d90e8b661e6
 Group=memes
 Flags=0
 
+[HATE]
+ID=99f9d5ac-584e-1251-e306-64553ac0f42b
+Group=memes
+Flags=0
+
 [kinetic]
 ID=a8da817a-2e04-1aaf-b0c6-e73acb6b38e1
 Group=memes
@@ -118,8 +123,23 @@ ID=d3b90501-f143-bfae-4714-954b9430b149
 Group=memes
 Flags=0
 
+[Class_4_Laser_Safety_Sign__99900_1024x]
+ID=61f94477-3574-6c3e-a138-61301deefcee
+Group=Signs
+Flags=0
+
 [donottouch]
 ID=96ac5a82-3c9e-9a7c-642c-8dc55d2d9572
+Group=Signs
+Flags=0
+
+[laser-danger-sign-s-2466]
+ID=f298d1c1-4c30-d5df-1af9-07ac51bd50a5
+Group=Signs
+Flags=0
+
+[SEVIER-COUNTY-EMA_TDF_FIRE-DANGER-SCALE-FOR-MONDAY-4-APRIL-2022_040422]
+ID=79ba3edf-88aa-1a3c-1f0f-693b97ca970f
 Group=Signs
 Flags=0
 
