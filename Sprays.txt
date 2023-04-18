@@ -173,3 +173,7 @@ ID=3da22c46-b41d-c852-616a-caad635e4d1e
 Group=UEF
 Flags=0
 
+[pet_muzz]
+ID=5b9366da-391f-7318-9464-59cc1d67a51d
+Group=memes
+Flags=168296452
