@@ -3,6 +3,11 @@ ID=60121ffb-f841-266e-a835-d33ca3e94c93
 Group=CYB
 Flags=0
 
+[MCR1]
+ID=8200593e-ed36-2fd3-e980-56e42a2f668f
+Group=MCR
+Flags=0
+
 [MCR2]
 ID=1de9dc1b-6c57-9dae-0d5b-8abe75b10e13
 Group=MCR
@@ -10,6 +15,11 @@ Flags=0
 
 [1513749234567]
 ID=da0048f2-bbf0-dfc0-0ba2-a75e21754fe2
+Group=memes
+Flags=0
+
+[1527455191311]
+ID=fa19d74e-5c7e-f6be-64cb-9bea129b16d6
 Group=memes
 Flags=0
 
@@ -108,8 +118,18 @@ ID=d3b90501-f143-bfae-4714-954b9430b149
 Group=memes
 Flags=0
 
+[donottouch]
+ID=96ac5a82-3c9e-9a7c-642c-8dc55d2d9572
+Group=Signs
+Flags=0
+
 [Starcore]
 ID=9c7795b0-7bb0-1cf6-a6de-12a436ece71a
+Group=Starcore Logos
+Flags=0
+
+[YOUR_AD_HERE]
+ID=f8a93d21-5988-cbc2-a495-39eee2c397ed
 Group=Starcore Logos
 Flags=0
 
