@@ -8,10 +8,10 @@ ID=803b9863-cb04-fb41-f8f9-8c28216a8217
 Group=gifs
 Flags=824180740
 
-[beeg_kitty_cartoon_dance]
-ID=0d9c756c-3c5f-e16a-ad18-9c99d9ced348
+[demonfoxgif]
+ID=5b975ac9-a9f9-74a1-70b9-8b4c7c153ad5
 Group=gifs
-Flags=270532612
+Flags=155189252
 
 [pet_muzz]
 ID=5b9366da-391f-7318-9464-59cc1d67a51d
