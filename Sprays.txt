@@ -8,11 +8,6 @@ ID=803b9863-cb04-fb41-f8f9-8c28216a8217
 Group=gifs
 Flags=824180740
 
-[demonfoxgif]
-ID=5b975ac9-a9f9-74a1-70b9-8b4c7c153ad5
-Group=gifs
-Flags=155189252
-
 [pet_muzz]
 ID=5b9366da-391f-7318-9464-59cc1d67a51d
 Group=gifs
@@ -112,6 +107,11 @@ Flags=0
 ID=f8a93d21-5988-cbc2-a495-39eee2c397ed
 Group=Starcore Logos
 Flags=0
+
+[Best_Bug]
+ID=75728310-1168-4ef4-1f9e-c6751edf5d81
+Group=TGS
+Flags=155189252
 
 [TLD1]
 ID=28c15a33-99a7-1a25-3eef-8fc076e353a7
