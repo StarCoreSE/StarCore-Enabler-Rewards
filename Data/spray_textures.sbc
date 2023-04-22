@@ -416,7 +416,7 @@
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
       <Rotation>0</Rotation>
-      <RenderDistance>50000.0</RenderDistance>
+      <RenderDistance>100000.0</RenderDistance>
       <Depth>0.3</Depth>
     </Decal>
     <Decal>
