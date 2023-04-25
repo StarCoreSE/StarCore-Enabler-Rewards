@@ -1,5 +1,15 @@
+[CRsLogo]
+ID=b7ae92d3-d66d-7ecd-c69c-592758052cdb
+Group=CYB
+Flags=0
+
 [CYB1]
 ID=60121ffb-f841-266e-a835-d33ca3e94c93
+Group=CYB
+Flags=0
+
+[Cybran_Logo]
+ID=ba9b16c3-c077-dccb-828f-5b05bd912c2d
 Group=CYB
 Flags=0
 

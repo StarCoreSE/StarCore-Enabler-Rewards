@@ -4,17 +4,6 @@
         <TransparentMaterial>
 	      <Id>
             <TypeId>TransparentMaterialDefinition</TypeId>
-            <SubtypeId>1d5413d3-6201-2f53-a6a6-ddafbbb15e31_b</SubtypeId>
-          </Id>
-          <AlphaSaturation>1</AlphaSaturation>
-          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
-          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-          <Texture>Textures\MySprays\1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0_c.dds</Texture>
-	      <Reflectivity>1</Reflectivity>
-        </TransparentMaterial>
-        <TransparentMaterial>
-	      <Id>
-            <TypeId>TransparentMaterialDefinition</TypeId>
             <SubtypeId>5b9366da-391f-7318-9464-59cc1d67a51d_b</SubtypeId>
           </Id>
           <AlphaSaturation>1</AlphaSaturation>
@@ -37,23 +26,23 @@
         <TransparentMaterial>
 	      <Id>
             <TypeId>TransparentMaterialDefinition</TypeId>
-            <SubtypeId>1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_b</SubtypeId>
-          </Id>
-          <AlphaSaturation>1</AlphaSaturation>
-          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
-          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-          <Texture>Textures\MySprays\1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_0_c.dds</Texture>
-	      <Reflectivity>1</Reflectivity>
-        </TransparentMaterial>
-        <TransparentMaterial>
-	      <Id>
-            <TypeId>TransparentMaterialDefinition</TypeId>
             <SubtypeId>cbb75753-60ac-a0b6-41e0-a51d320697b8_b</SubtypeId>
           </Id>
           <AlphaSaturation>1</AlphaSaturation>
           <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
           <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
           <Texture>Textures\MySprays\cbb75753-60ac-a0b6-41e0-a51d320697b8_0_c.dds</Texture>
+	      <Reflectivity>1</Reflectivity>
+        </TransparentMaterial>
+        <TransparentMaterial>
+	      <Id>
+            <TypeId>TransparentMaterialDefinition</TypeId>
+            <SubtypeId>1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_b</SubtypeId>
+          </Id>
+          <AlphaSaturation>1</AlphaSaturation>
+          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+          <Texture>Textures\MySprays\1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_0_c.dds</Texture>
 	      <Reflectivity>1</Reflectivity>
         </TransparentMaterial>
         <TransparentMaterial>
@@ -70,34 +59,12 @@
         <TransparentMaterial>
 	      <Id>
             <TypeId>TransparentMaterialDefinition</TypeId>
-            <SubtypeId>60121ffb-f841-266e-a835-d33ca3e94c93_b</SubtypeId>
-          </Id>
-          <AlphaSaturation>1</AlphaSaturation>
-          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
-          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-          <Texture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_0_c.dds</Texture>
-	      <Reflectivity>1</Reflectivity>
-        </TransparentMaterial>
-        <TransparentMaterial>
-	      <Id>
-            <TypeId>TransparentMaterialDefinition</TypeId>
             <SubtypeId>90d29324-2cab-2e5f-5f8b-a1fae5842580_b</SubtypeId>
           </Id>
           <AlphaSaturation>1</AlphaSaturation>
           <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
           <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
           <Texture>Textures\MySprays\90d29324-2cab-2e5f-5f8b-a1fae5842580_0_c.dds</Texture>
-	      <Reflectivity>1</Reflectivity>
-        </TransparentMaterial>
-        <TransparentMaterial>
-	      <Id>
-            <TypeId>TransparentMaterialDefinition</TypeId>
-            <SubtypeId>d5fa1d0f-f138-d0b0-abcc-06fff0809742_b</SubtypeId>
-          </Id>
-          <AlphaSaturation>1</AlphaSaturation>
-          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
-          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-          <Texture>Textures\MySprays\d5fa1d0f-f138-d0b0-abcc-06fff0809742_0_c.dds</Texture>
 	      <Reflectivity>1</Reflectivity>
         </TransparentMaterial>
         <TransparentMaterial>
@@ -114,12 +81,23 @@
         <TransparentMaterial>
 	      <Id>
             <TypeId>TransparentMaterialDefinition</TypeId>
-            <SubtypeId>28749513-d80d-acbc-13d6-cc5005117d03_b</SubtypeId>
+            <SubtypeId>b7ae92d3-d66d-7ecd-c69c-592758052cdb_b</SubtypeId>
           </Id>
           <AlphaSaturation>1</AlphaSaturation>
           <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
           <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-          <Texture>Textures\MySprays\28749513-d80d-acbc-13d6-cc5005117d03_0_c.dds</Texture>
+          <Texture>Textures\MySprays\b7ae92d3-d66d-7ecd-c69c-592758052cdb_0_c.dds</Texture>
+	      <Reflectivity>1</Reflectivity>
+        </TransparentMaterial>
+        <TransparentMaterial>
+	      <Id>
+            <TypeId>TransparentMaterialDefinition</TypeId>
+            <SubtypeId>ba9b16c3-c077-dccb-828f-5b05bd912c2d_b</SubtypeId>
+          </Id>
+          <AlphaSaturation>1</AlphaSaturation>
+          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+          <Texture>Textures\MySprays\ba9b16c3-c077-dccb-828f-5b05bd912c2d_0_c.dds</Texture>
 	      <Reflectivity>1</Reflectivity>
         </TransparentMaterial>
         <TransparentMaterial>
@@ -136,12 +114,12 @@
         <TransparentMaterial>
 	      <Id>
             <TypeId>TransparentMaterialDefinition</TypeId>
-            <SubtypeId>4d101276-d5fc-0de5-938e-7f01b95f5886_b</SubtypeId>
+            <SubtypeId>28749513-d80d-acbc-13d6-cc5005117d03_b</SubtypeId>
           </Id>
           <AlphaSaturation>1</AlphaSaturation>
           <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
           <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-          <Texture>Textures\MySprays\4d101276-d5fc-0de5-938e-7f01b95f5886_0_c.dds</Texture>
+          <Texture>Textures\MySprays\28749513-d80d-acbc-13d6-cc5005117d03_0_c.dds</Texture>
 	      <Reflectivity>1</Reflectivity>
         </TransparentMaterial>
         <TransparentMaterial>
@@ -158,23 +136,45 @@
         <TransparentMaterial>
 	      <Id>
             <TypeId>TransparentMaterialDefinition</TypeId>
-            <SubtypeId>96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_b</SubtypeId>
-          </Id>
-          <AlphaSaturation>1</AlphaSaturation>
-          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
-          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-          <Texture>Textures\MySprays\96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_0_c.dds</Texture>
-	      <Reflectivity>1</Reflectivity>
-        </TransparentMaterial>
-        <TransparentMaterial>
-	      <Id>
-            <TypeId>TransparentMaterialDefinition</TypeId>
             <SubtypeId>99f9d5ac-584e-1251-e306-64553ac0f42b_b</SubtypeId>
           </Id>
           <AlphaSaturation>1</AlphaSaturation>
           <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
           <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
           <Texture>Textures\MySprays\99f9d5ac-584e-1251-e306-64553ac0f42b_0_c.dds</Texture>
+	      <Reflectivity>1</Reflectivity>
+        </TransparentMaterial>
+        <TransparentMaterial>
+	      <Id>
+            <TypeId>TransparentMaterialDefinition</TypeId>
+            <SubtypeId>4d101276-d5fc-0de5-938e-7f01b95f5886_b</SubtypeId>
+          </Id>
+          <AlphaSaturation>1</AlphaSaturation>
+          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+          <Texture>Textures\MySprays\4d101276-d5fc-0de5-938e-7f01b95f5886_0_c.dds</Texture>
+	      <Reflectivity>1</Reflectivity>
+        </TransparentMaterial>
+        <TransparentMaterial>
+	      <Id>
+            <TypeId>TransparentMaterialDefinition</TypeId>
+            <SubtypeId>60121ffb-f841-266e-a835-d33ca3e94c93_b</SubtypeId>
+          </Id>
+          <AlphaSaturation>1</AlphaSaturation>
+          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+          <Texture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_0_c.dds</Texture>
+	      <Reflectivity>1</Reflectivity>
+        </TransparentMaterial>
+        <TransparentMaterial>
+	      <Id>
+            <TypeId>TransparentMaterialDefinition</TypeId>
+            <SubtypeId>96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_b</SubtypeId>
+          </Id>
+          <AlphaSaturation>1</AlphaSaturation>
+          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+          <Texture>Textures\MySprays\96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_0_c.dds</Texture>
 	      <Reflectivity>1</Reflectivity>
         </TransparentMaterial>
         <TransparentMaterial>
@@ -202,23 +202,23 @@
         <TransparentMaterial>
 	      <Id>
             <TypeId>TransparentMaterialDefinition</TypeId>
+            <SubtypeId>1d5413d3-6201-2f53-a6a6-ddafbbb15e31_b</SubtypeId>
+          </Id>
+          <AlphaSaturation>1</AlphaSaturation>
+          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+          <Texture>Textures\MySprays\1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0_c.dds</Texture>
+	      <Reflectivity>1</Reflectivity>
+        </TransparentMaterial>
+        <TransparentMaterial>
+	      <Id>
+            <TypeId>TransparentMaterialDefinition</TypeId>
             <SubtypeId>75728310-1168-4ef4-1f9e-c6751edf5d81_b</SubtypeId>
           </Id>
           <AlphaSaturation>1</AlphaSaturation>
           <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
           <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
           <Texture>Textures\MySprays\75728310-1168-4ef4-1f9e-c6751edf5d81_0_c.dds</Texture>
-	      <Reflectivity>1</Reflectivity>
-        </TransparentMaterial>
-        <TransparentMaterial>
-	      <Id>
-            <TypeId>TransparentMaterialDefinition</TypeId>
-            <SubtypeId>3da22c46-b41d-c852-616a-caad635e4d1e_b</SubtypeId>
-          </Id>
-          <AlphaSaturation>1</AlphaSaturation>
-          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
-          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-          <Texture>Textures\MySprays\3da22c46-b41d-c852-616a-caad635e4d1e_0_c.dds</Texture>
 	      <Reflectivity>1</Reflectivity>
         </TransparentMaterial>
         <TransparentMaterial>
@@ -241,6 +241,28 @@
           <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
           <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
           <Texture>Textures\MySprays\da0048f2-bbf0-dfc0-0ba2-a75e21754fe2_0_c.dds</Texture>
+	      <Reflectivity>1</Reflectivity>
+        </TransparentMaterial>
+        <TransparentMaterial>
+	      <Id>
+            <TypeId>TransparentMaterialDefinition</TypeId>
+            <SubtypeId>d5fa1d0f-f138-d0b0-abcc-06fff0809742_b</SubtypeId>
+          </Id>
+          <AlphaSaturation>1</AlphaSaturation>
+          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+          <Texture>Textures\MySprays\d5fa1d0f-f138-d0b0-abcc-06fff0809742_0_c.dds</Texture>
+	      <Reflectivity>1</Reflectivity>
+        </TransparentMaterial>
+        <TransparentMaterial>
+	      <Id>
+            <TypeId>TransparentMaterialDefinition</TypeId>
+            <SubtypeId>3da22c46-b41d-c852-616a-caad635e4d1e_b</SubtypeId>
+          </Id>
+          <AlphaSaturation>1</AlphaSaturation>
+          <CanBeAffectedByOtherLights>false</CanBeAffectedByOtherLights>
+          <SoftParticleDistanceScale>0</SoftParticleDistanceScale>
+          <Texture>Textures\MySprays\3da22c46-b41d-c852-616a-caad635e4d1e_0_c.dds</Texture>
 	      <Reflectivity>1</Reflectivity>
         </TransparentMaterial>
         <TransparentMaterial>
