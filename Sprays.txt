@@ -1,3 +1,78 @@
+[Bullet Dent 2]
+ID=4c5e478c-34ad-f05c-eeeb-029ac961c9dc
+Group=Battle Damage
+Flags=0
+
+[Bullet Dent]
+ID=b7593fb1-0d98-07c0-9666-ea4c5d85b2bd
+Group=Battle Damage
+Flags=0
+
+[bullet hole]
+ID=f7a1967a-099e-665c-7108-6a8fbfa73f65
+Group=Battle Damage
+Flags=0
+
+[Bullet Impact 1]
+ID=69a6d4b4-1415-a63f-766c-bcc2f777b064
+Group=Battle Damage
+Flags=0
+
+[Bullet Impact 1A]
+ID=174cd584-44fe-1ac7-8285-5e6da0170d96
+Group=Battle Damage
+Flags=0
+
+[Bullet Impact 2]
+ID=d30ed819-395d-a741-a9d7-9240b87516fe
+Group=Battle Damage
+Flags=0
+
+[Bullet Impact 2A]
+ID=d365bb21-4fd5-5416-4955-ec24d9ec448a
+Group=Battle Damage
+Flags=0
+
+[Bullet Impact 3]
+ID=977af181-f844-246f-85de-5a6c04072533
+Group=Battle Damage
+Flags=0
+
+[Bullet Impact 3A]
+ID=c607830d-1bb9-b01a-d143-249e2d23b8a4
+Group=Battle Damage
+Flags=0
+
+[Bullet Impact 4]
+ID=b3fa13e8-bf4d-5235-1e12-181a796c7280
+Group=Battle Damage
+Flags=0
+
+[Crack 1]
+ID=8d7dad3e-ff0e-0e42-223c-2df640a92cee
+Group=Battle Damage
+Flags=0
+
+[Crack 2]
+ID=ed99a0ed-ea82-b82b-f1e8-5c17c45cd448
+Group=Battle Damage
+Flags=0
+
+[Explosion Mark 1]
+ID=bc7c0354-5220-4071-3cbe-82f1f8412455
+Group=Battle Damage
+Flags=0
+
+[Explosion mark 2]
+ID=51343b2e-3c36-4e8a-b620-813d5abaef74
+Group=Battle Damage
+Flags=0
+
+[Patch 1]
+ID=7e01b576-4d15-6d5d-6f3d-e965901d7832
+Group=Battle Damage
+Flags=0
+
 [CRsLogo]
 ID=b7ae92d3-d66d-7ecd-c69c-592758052cdb
 Group=CYB
