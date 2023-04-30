@@ -108,6 +108,26 @@ ID=1de9dc1b-6c57-9dae-0d5b-8abe75b10e13
 Group=MCR
 Flags=0
 
+[MCR3]
+ID=d2ea8ae1-2b60-c633-fcb2-503217a65c8f
+Group=MCR
+Flags=0
+
+[MCR3nobg]
+ID=327617e1-7e65-fa6d-6c23-4e5abdfcbb0b
+Group=MCR
+Flags=0
+
+[MCR4]
+ID=afa9de63-bd99-8822-4ae7-48e017194952
+Group=MCR
+Flags=0
+
+[MCR4nobg]
+ID=684689ef-fc4e-f57f-8311-81e4e46bba32
+Group=MCR
+Flags=0
+
 [1513749234567]
 ID=da0048f2-bbf0-dfc0-0ba2-a75e21754fe2
 Group=misc

@@ -4,14 +4,14 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>99f9d5ac-584e-1251-e306-64553ac0f42b_spray</SubtypeId>
+        <SubtypeId>28c15a33-99a7-1a25-3eef-8fc076e353a7_spray</SubtypeId>
       </Id>
-      <Source>99f9d5ac-584e-1251-e306-64553ac0f42b</Source>
+      <Source>28c15a33-99a7-1a25-3eef-8fc076e353a7</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\99f9d5ac-584e-1251-e306-64553ac0f42b_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\99f9d5ac-584e-1251-e306-64553ac0f42b_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\28c15a33-99a7-1a25-3eef-8fc076e353a7_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\28c15a33-99a7-1a25-3eef-8fc076e353a7_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -22,14 +22,14 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_spray</SubtypeId>
+        <SubtypeId>8200593e-ed36-2fd3-e980-56e42a2f668f_spray</SubtypeId>
       </Id>
-      <Source>1de9dc1b-6c57-9dae-0d5b-8abe75b10e13</Source>
+      <Source>8200593e-ed36-2fd3-e980-56e42a2f668f</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\8200593e-ed36-2fd3-e980-56e42a2f668f_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\8200593e-ed36-2fd3-e980-56e42a2f668f_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -40,194 +40,14 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>4c5e478c-34ad-f05c-eeeb-029ac961c9dc_spray</SubtypeId>
+        <SubtypeId>1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0_spray</SubtypeId>
       </Id>
-      <Source>4c5e478c-34ad-f05c-eeeb-029ac961c9dc</Source>
+      <Source>1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\4c5e478c-34ad-f05c-eeeb-029ac961c9dc_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\4c5e478c-34ad-f05c-eeeb-029ac961c9dc_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>f298d1c1-4c30-d5df-1af9-07ac51bd50a5_spray</SubtypeId>
-      </Id>
-      <Source>f298d1c1-4c30-d5df-1af9-07ac51bd50a5</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\f298d1c1-4c30-d5df-1af9-07ac51bd50a5_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\f298d1c1-4c30-d5df-1af9-07ac51bd50a5_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>90d29324-2cab-2e5f-5f8b-a1fae5842580_spray</SubtypeId>
-      </Id>
-      <Source>90d29324-2cab-2e5f-5f8b-a1fae5842580</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\90d29324-2cab-2e5f-5f8b-a1fae5842580_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\90d29324-2cab-2e5f-5f8b-a1fae5842580_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>b7ae92d3-d66d-7ecd-c69c-592758052cdb_spray</SubtypeId>
-      </Id>
-      <Source>b7ae92d3-d66d-7ecd-c69c-592758052cdb</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\b7ae92d3-d66d-7ecd-c69c-592758052cdb_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\b7ae92d3-d66d-7ecd-c69c-592758052cdb_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>b7593fb1-0d98-07c0-9666-ea4c5d85b2bd_spray</SubtypeId>
-      </Id>
-      <Source>b7593fb1-0d98-07c0-9666-ea4c5d85b2bd</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\b7593fb1-0d98-07c0-9666-ea4c5d85b2bd_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\b7593fb1-0d98-07c0-9666-ea4c5d85b2bd_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>bc7c0354-5220-4071-3cbe-82f1f8412455_spray</SubtypeId>
-      </Id>
-      <Source>bc7c0354-5220-4071-3cbe-82f1f8412455</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\bc7c0354-5220-4071-3cbe-82f1f8412455_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\bc7c0354-5220-4071-3cbe-82f1f8412455_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>f7a1967a-099e-665c-7108-6a8fbfa73f65_spray</SubtypeId>
-      </Id>
-      <Source>f7a1967a-099e-665c-7108-6a8fbfa73f65</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\f7a1967a-099e-665c-7108-6a8fbfa73f65_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\f7a1967a-099e-665c-7108-6a8fbfa73f65_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>b3fa13e8-bf4d-5235-1e12-181a796c7280_spray</SubtypeId>
-      </Id>
-      <Source>b3fa13e8-bf4d-5235-1e12-181a796c7280</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\b3fa13e8-bf4d-5235-1e12-181a796c7280_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\b3fa13e8-bf4d-5235-1e12-181a796c7280_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>60121ffb-f841-266e-a835-d33ca3e94c93_spray</SubtypeId>
-      </Id>
-      <Source>60121ffb-f841-266e-a835-d33ca3e94c93</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_spray</SubtypeId>
-      </Id>
-      <Source>96ac5a82-3c9e-9a7c-642c-8dc55d2d9572</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>79ba3edf-88aa-1a3c-1f0f-693b97ca970f_spray</SubtypeId>
-      </Id>
-      <Source>79ba3edf-88aa-1a3c-1f0f-693b97ca970f</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\79ba3edf-88aa-1a3c-1f0f-693b97ca970f_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\79ba3edf-88aa-1a3c-1f0f-693b97ca970f_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -256,14 +76,302 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>d365bb21-4fd5-5416-4955-ec24d9ec448a_spray</SubtypeId>
+        <SubtypeId>90d29324-2cab-2e5f-5f8b-a1fae5842580_spray</SubtypeId>
       </Id>
-      <Source>d365bb21-4fd5-5416-4955-ec24d9ec448a</Source>
+      <Source>90d29324-2cab-2e5f-5f8b-a1fae5842580</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\d365bb21-4fd5-5416-4955-ec24d9ec448a_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\d365bb21-4fd5-5416-4955-ec24d9ec448a_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\90d29324-2cab-2e5f-5f8b-a1fae5842580_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\90d29324-2cab-2e5f-5f8b-a1fae5842580_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>60121ffb-f841-266e-a835-d33ca3e94c93_spray</SubtypeId>
+      </Id>
+      <Source>60121ffb-f841-266e-a835-d33ca3e94c93</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\60121ffb-f841-266e-a835-d33ca3e94c93_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>4c5e478c-34ad-f05c-eeeb-029ac961c9dc_spray</SubtypeId>
+      </Id>
+      <Source>4c5e478c-34ad-f05c-eeeb-029ac961c9dc</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\4c5e478c-34ad-f05c-eeeb-029ac961c9dc_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\4c5e478c-34ad-f05c-eeeb-029ac961c9dc_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>b7593fb1-0d98-07c0-9666-ea4c5d85b2bd_spray</SubtypeId>
+      </Id>
+      <Source>b7593fb1-0d98-07c0-9666-ea4c5d85b2bd</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\b7593fb1-0d98-07c0-9666-ea4c5d85b2bd_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\b7593fb1-0d98-07c0-9666-ea4c5d85b2bd_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>f7a1967a-099e-665c-7108-6a8fbfa73f65_spray</SubtypeId>
+      </Id>
+      <Source>f7a1967a-099e-665c-7108-6a8fbfa73f65</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\f7a1967a-099e-665c-7108-6a8fbfa73f65_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\f7a1967a-099e-665c-7108-6a8fbfa73f65_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_spray</SubtypeId>
+      </Id>
+      <Source>1de9dc1b-6c57-9dae-0d5b-8abe75b10e13</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\1de9dc1b-6c57-9dae-0d5b-8abe75b10e13_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>d5fa1d0f-f138-d0b0-abcc-06fff0809742_spray</SubtypeId>
+      </Id>
+      <Source>d5fa1d0f-f138-d0b0-abcc-06fff0809742</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\d5fa1d0f-f138-d0b0-abcc-06fff0809742_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\d5fa1d0f-f138-d0b0-abcc-06fff0809742_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>afa9de63-bd99-8822-4ae7-48e017194952_spray</SubtypeId>
+      </Id>
+      <Source>afa9de63-bd99-8822-4ae7-48e017194952</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\afa9de63-bd99-8822-4ae7-48e017194952_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\afa9de63-bd99-8822-4ae7-48e017194952_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>bc7c0354-5220-4071-3cbe-82f1f8412455_spray</SubtypeId>
+      </Id>
+      <Source>bc7c0354-5220-4071-3cbe-82f1f8412455</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\bc7c0354-5220-4071-3cbe-82f1f8412455_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\bc7c0354-5220-4071-3cbe-82f1f8412455_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>c607830d-1bb9-b01a-d143-249e2d23b8a4_spray</SubtypeId>
+      </Id>
+      <Source>c607830d-1bb9-b01a-d143-249e2d23b8a4</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\c607830d-1bb9-b01a-d143-249e2d23b8a4_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\c607830d-1bb9-b01a-d143-249e2d23b8a4_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>ba9b16c3-c077-dccb-828f-5b05bd912c2d_spray</SubtypeId>
+      </Id>
+      <Source>ba9b16c3-c077-dccb-828f-5b05bd912c2d</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\ba9b16c3-c077-dccb-828f-5b05bd912c2d_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\ba9b16c3-c077-dccb-828f-5b05bd912c2d_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>d2ea8ae1-2b60-c633-fcb2-503217a65c8f_spray</SubtypeId>
+      </Id>
+      <Source>d2ea8ae1-2b60-c633-fcb2-503217a65c8f</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\d2ea8ae1-2b60-c633-fcb2-503217a65c8f_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\d2ea8ae1-2b60-c633-fcb2-503217a65c8f_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>17414c4e-a97e-4c3e-21c9-6d90e8b661e6_spray</SubtypeId>
+      </Id>
+      <Source>17414c4e-a97e-4c3e-21c9-6d90e8b661e6</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\17414c4e-a97e-4c3e-21c9-6d90e8b661e6_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\17414c4e-a97e-4c3e-21c9-6d90e8b661e6_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>684689ef-fc4e-f57f-8311-81e4e46bba32_spray</SubtypeId>
+      </Id>
+      <Source>684689ef-fc4e-f57f-8311-81e4e46bba32</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\684689ef-fc4e-f57f-8311-81e4e46bba32_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\684689ef-fc4e-f57f-8311-81e4e46bba32_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>99f9d5ac-584e-1251-e306-64553ac0f42b_spray</SubtypeId>
+      </Id>
+      <Source>99f9d5ac-584e-1251-e306-64553ac0f42b</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\99f9d5ac-584e-1251-e306-64553ac0f42b_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\99f9d5ac-584e-1251-e306-64553ac0f42b_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>174cd584-44fe-1ac7-8285-5e6da0170d96_spray</SubtypeId>
+      </Id>
+      <Source>174cd584-44fe-1ac7-8285-5e6da0170d96</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\174cd584-44fe-1ac7-8285-5e6da0170d96_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\174cd584-44fe-1ac7-8285-5e6da0170d96_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>3da22c46-b41d-c852-616a-caad635e4d1e_spray</SubtypeId>
+      </Id>
+      <Source>3da22c46-b41d-c852-616a-caad635e4d1e</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\3da22c46-b41d-c852-616a-caad635e4d1e_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\3da22c46-b41d-c852-616a-caad635e4d1e_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -292,14 +400,50 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>da0048f2-bbf0-dfc0-0ba2-a75e21754fe2_spray</SubtypeId>
+        <SubtypeId>f298d1c1-4c30-d5df-1af9-07ac51bd50a5_spray</SubtypeId>
       </Id>
-      <Source>da0048f2-bbf0-dfc0-0ba2-a75e21754fe2</Source>
+      <Source>f298d1c1-4c30-d5df-1af9-07ac51bd50a5</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\da0048f2-bbf0-dfc0-0ba2-a75e21754fe2_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\da0048f2-bbf0-dfc0-0ba2-a75e21754fe2_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\f298d1c1-4c30-d5df-1af9-07ac51bd50a5_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\f298d1c1-4c30-d5df-1af9-07ac51bd50a5_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>327617e1-7e65-fa6d-6c23-4e5abdfcbb0b_spray</SubtypeId>
+      </Id>
+      <Source>327617e1-7e65-fa6d-6c23-4e5abdfcbb0b</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\327617e1-7e65-fa6d-6c23-4e5abdfcbb0b_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\327617e1-7e65-fa6d-6c23-4e5abdfcbb0b_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>b3fa13e8-bf4d-5235-1e12-181a796c7280_spray</SubtypeId>
+      </Id>
+      <Source>b3fa13e8-bf4d-5235-1e12-181a796c7280</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\b3fa13e8-bf4d-5235-1e12-181a796c7280_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\b3fa13e8-bf4d-5235-1e12-181a796c7280_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -328,14 +472,14 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>8d7dad3e-ff0e-0e42-223c-2df640a92cee_spray</SubtypeId>
+        <SubtypeId>7e01b576-4d15-6d5d-6f3d-e965901d7832_spray</SubtypeId>
       </Id>
-      <Source>8d7dad3e-ff0e-0e42-223c-2df640a92cee</Source>
+      <Source>7e01b576-4d15-6d5d-6f3d-e965901d7832</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\8d7dad3e-ff0e-0e42-223c-2df640a92cee_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\8d7dad3e-ff0e-0e42-223c-2df640a92cee_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\7e01b576-4d15-6d5d-6f3d-e965901d7832_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\7e01b576-4d15-6d5d-6f3d-e965901d7832_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -346,14 +490,32 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>ba9b16c3-c077-dccb-828f-5b05bd912c2d_spray</SubtypeId>
+        <SubtypeId>21f4b402-2ffd-9533-b839-3ac3e53eef58_spray</SubtypeId>
       </Id>
-      <Source>ba9b16c3-c077-dccb-828f-5b05bd912c2d</Source>
+      <Source>21f4b402-2ffd-9533-b839-3ac3e53eef58</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\ba9b16c3-c077-dccb-828f-5b05bd912c2d_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\ba9b16c3-c077-dccb-828f-5b05bd912c2d_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\21f4b402-2ffd-9533-b839-3ac3e53eef58_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\21f4b402-2ffd-9533-b839-3ac3e53eef58_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>ed99a0ed-ea82-b82b-f1e8-5c17c45cd448_spray</SubtypeId>
+      </Id>
+      <Source>ed99a0ed-ea82-b82b-f1e8-5c17c45cd448</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\ed99a0ed-ea82-b82b-f1e8-5c17c45cd448_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\ed99a0ed-ea82-b82b-f1e8-5c17c45cd448_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -544,42 +706,6 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>7e01b576-4d15-6d5d-6f3d-e965901d7832_spray</SubtypeId>
-      </Id>
-      <Source>7e01b576-4d15-6d5d-6f3d-e965901d7832</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\7e01b576-4d15-6d5d-6f3d-e965901d7832_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\7e01b576-4d15-6d5d-6f3d-e965901d7832_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>21f4b402-2ffd-9533-b839-3ac3e53eef58_spray</SubtypeId>
-      </Id>
-      <Source>21f4b402-2ffd-9533-b839-3ac3e53eef58</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\21f4b402-2ffd-9533-b839-3ac3e53eef58_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\21f4b402-2ffd-9533-b839-3ac3e53eef58_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
         <SubtypeId>28749513-d80d-acbc-13d6-cc5005117d03_spray</SubtypeId>
       </Id>
       <Source>28749513-d80d-acbc-13d6-cc5005117d03</Source>
@@ -588,42 +714,6 @@
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
         <ColorMetalTexture>Textures\MySprays\28749513-d80d-acbc-13d6-cc5005117d03_0_c.dds</ColorMetalTexture>
         <AlphamaskTexture>Textures\MySprays\28749513-d80d-acbc-13d6-cc5005117d03_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0_spray</SubtypeId>
-      </Id>
-      <Source>1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\1d5413d3-6201-2f53-a6a6-ddafbbb15e31_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>8200593e-ed36-2fd3-e980-56e42a2f668f_spray</SubtypeId>
-      </Id>
-      <Source>8200593e-ed36-2fd3-e980-56e42a2f668f</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\8200593e-ed36-2fd3-e980-56e42a2f668f_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\8200593e-ed36-2fd3-e980-56e42a2f668f_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -670,86 +760,14 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>17414c4e-a97e-4c3e-21c9-6d90e8b661e6_spray</SubtypeId>
+        <SubtypeId>b7ae92d3-d66d-7ecd-c69c-592758052cdb_spray</SubtypeId>
       </Id>
-      <Source>17414c4e-a97e-4c3e-21c9-6d90e8b661e6</Source>
+      <Source>b7ae92d3-d66d-7ecd-c69c-592758052cdb</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\17414c4e-a97e-4c3e-21c9-6d90e8b661e6_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\17414c4e-a97e-4c3e-21c9-6d90e8b661e6_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>ed99a0ed-ea82-b82b-f1e8-5c17c45cd448_spray</SubtypeId>
-      </Id>
-      <Source>ed99a0ed-ea82-b82b-f1e8-5c17c45cd448</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\ed99a0ed-ea82-b82b-f1e8-5c17c45cd448_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\ed99a0ed-ea82-b82b-f1e8-5c17c45cd448_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>174cd584-44fe-1ac7-8285-5e6da0170d96_spray</SubtypeId>
-      </Id>
-      <Source>174cd584-44fe-1ac7-8285-5e6da0170d96</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\174cd584-44fe-1ac7-8285-5e6da0170d96_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\174cd584-44fe-1ac7-8285-5e6da0170d96_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>d5fa1d0f-f138-d0b0-abcc-06fff0809742_spray</SubtypeId>
-      </Id>
-      <Source>d5fa1d0f-f138-d0b0-abcc-06fff0809742</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\d5fa1d0f-f138-d0b0-abcc-06fff0809742_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\d5fa1d0f-f138-d0b0-abcc-06fff0809742_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>69a6d4b4-1415-a63f-766c-bcc2f777b064_spray</SubtypeId>
-      </Id>
-      <Source>69a6d4b4-1415-a63f-766c-bcc2f777b064</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\69a6d4b4-1415-a63f-766c-bcc2f777b064_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\69a6d4b4-1415-a63f-766c-bcc2f777b064_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\b7ae92d3-d66d-7ecd-c69c-592758052cdb_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\b7ae92d3-d66d-7ecd-c69c-592758052cdb_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -778,6 +796,24 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>8d7dad3e-ff0e-0e42-223c-2df640a92cee_spray</SubtypeId>
+      </Id>
+      <Source>8d7dad3e-ff0e-0e42-223c-2df640a92cee</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\8d7dad3e-ff0e-0e42-223c-2df640a92cee_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\8d7dad3e-ff0e-0e42-223c-2df640a92cee_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
         <SubtypeId>61f94477-3574-6c3e-a138-61301deefcee_spray</SubtypeId>
       </Id>
       <Source>61f94477-3574-6c3e-a138-61301deefcee</Source>
@@ -796,6 +832,42 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>da0048f2-bbf0-dfc0-0ba2-a75e21754fe2_spray</SubtypeId>
+      </Id>
+      <Source>da0048f2-bbf0-dfc0-0ba2-a75e21754fe2</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\da0048f2-bbf0-dfc0-0ba2-a75e21754fe2_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\da0048f2-bbf0-dfc0-0ba2-a75e21754fe2_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>79ba3edf-88aa-1a3c-1f0f-693b97ca970f_spray</SubtypeId>
+      </Id>
+      <Source>79ba3edf-88aa-1a3c-1f0f-693b97ca970f</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\79ba3edf-88aa-1a3c-1f0f-693b97ca970f_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\79ba3edf-88aa-1a3c-1f0f-693b97ca970f_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
         <SubtypeId>977af181-f844-246f-85de-5a6c04072533_spray</SubtypeId>
       </Id>
       <Source>977af181-f844-246f-85de-5a6c04072533</Source>
@@ -804,6 +876,60 @@
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
         <ColorMetalTexture>Textures\MySprays\977af181-f844-246f-85de-5a6c04072533_0_c.dds</ColorMetalTexture>
         <AlphamaskTexture>Textures\MySprays\977af181-f844-246f-85de-5a6c04072533_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>d30ed819-395d-a741-a9d7-9240b87516fe_spray</SubtypeId>
+      </Id>
+      <Source>d30ed819-395d-a741-a9d7-9240b87516fe</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\d30ed819-395d-a741-a9d7-9240b87516fe_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\d30ed819-395d-a741-a9d7-9240b87516fe_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_spray</SubtypeId>
+      </Id>
+      <Source>96ac5a82-3c9e-9a7c-642c-8dc55d2d9572</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\96ac5a82-3c9e-9a7c-642c-8dc55d2d9572_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>69a6d4b4-1415-a63f-766c-bcc2f777b064_spray</SubtypeId>
+      </Id>
+      <Source>69a6d4b4-1415-a63f-766c-bcc2f777b064</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\69a6d4b4-1415-a63f-766c-bcc2f777b064_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\69a6d4b4-1415-a63f-766c-bcc2f777b064_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -1696,14 +1822,50 @@
     <Decal>
       <Id>
         <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>3da22c46-b41d-c852-616a-caad635e4d1e_spray</SubtypeId>
+        <SubtypeId>d365bb21-4fd5-5416-4955-ec24d9ec448a_spray</SubtypeId>
       </Id>
-      <Source>3da22c46-b41d-c852-616a-caad635e4d1e</Source>
+      <Source>d365bb21-4fd5-5416-4955-ec24d9ec448a</Source>
 	  <Target>Default</Target>
       <Material>
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\3da22c46-b41d-c852-616a-caad635e4d1e_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\3da22c46-b41d-c852-616a-caad635e4d1e_0_a.dds</AlphamaskTexture>
+        <ColorMetalTexture>Textures\MySprays\d365bb21-4fd5-5416-4955-ec24d9ec448a_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\d365bb21-4fd5-5416-4955-ec24d9ec448a_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>9c7795b0-7bb0-1cf6-a6de-12a436ece71a_spray</SubtypeId>
+      </Id>
+      <Source>9c7795b0-7bb0-1cf6-a6de-12a436ece71a</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\9c7795b0-7bb0-1cf6-a6de-12a436ece71a_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\9c7795b0-7bb0-1cf6-a6de-12a436ece71a_0_a.dds</AlphamaskTexture>
+      </Material>
+      <MinSize>1</MinSize>
+      <MaxSize>1</MaxSize>
+      <Rotation>0</Rotation>
+      <RenderDistance>100000.0</RenderDistance>
+      <Depth>0.3</Depth>
+    </Decal>
+    <Decal>
+      <Id>
+        <TypeId>DecalDefinition</TypeId>
+        <SubtypeId>f8a93d21-5988-cbc2-a495-39eee2c397ed_spray</SubtypeId>
+      </Id>
+      <Source>f8a93d21-5988-cbc2-a495-39eee2c397ed</Source>
+	  <Target>Default</Target>
+      <Material>
+        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
+        <ColorMetalTexture>Textures\MySprays\f8a93d21-5988-cbc2-a495-39eee2c397ed_0_c.dds</ColorMetalTexture>
+        <AlphamaskTexture>Textures\MySprays\f8a93d21-5988-cbc2-a495-39eee2c397ed_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
@@ -1866,96 +2028,6 @@
         <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
         <ColorMetalTexture>Textures\MySprays\75728310-1168-4ef4-1f9e-c6751edf5d81_8_c.dds</ColorMetalTexture>
         <AlphamaskTexture>Textures\MySprays\75728310-1168-4ef4-1f9e-c6751edf5d81_8_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>28c15a33-99a7-1a25-3eef-8fc076e353a7_spray</SubtypeId>
-      </Id>
-      <Source>28c15a33-99a7-1a25-3eef-8fc076e353a7</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\28c15a33-99a7-1a25-3eef-8fc076e353a7_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\28c15a33-99a7-1a25-3eef-8fc076e353a7_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>c607830d-1bb9-b01a-d143-249e2d23b8a4_spray</SubtypeId>
-      </Id>
-      <Source>c607830d-1bb9-b01a-d143-249e2d23b8a4</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\c607830d-1bb9-b01a-d143-249e2d23b8a4_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\c607830d-1bb9-b01a-d143-249e2d23b8a4_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>d30ed819-395d-a741-a9d7-9240b87516fe_spray</SubtypeId>
-      </Id>
-      <Source>d30ed819-395d-a741-a9d7-9240b87516fe</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\d30ed819-395d-a741-a9d7-9240b87516fe_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\d30ed819-395d-a741-a9d7-9240b87516fe_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>9c7795b0-7bb0-1cf6-a6de-12a436ece71a_spray</SubtypeId>
-      </Id>
-      <Source>9c7795b0-7bb0-1cf6-a6de-12a436ece71a</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\9c7795b0-7bb0-1cf6-a6de-12a436ece71a_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\9c7795b0-7bb0-1cf6-a6de-12a436ece71a_0_a.dds</AlphamaskTexture>
-      </Material>
-      <MinSize>1</MinSize>
-      <MaxSize>1</MaxSize>
-      <Rotation>0</Rotation>
-      <RenderDistance>100000.0</RenderDistance>
-      <Depth>0.3</Depth>
-    </Decal>
-    <Decal>
-      <Id>
-        <TypeId>DecalDefinition</TypeId>
-        <SubtypeId>f8a93d21-5988-cbc2-a495-39eee2c397ed_spray</SubtypeId>
-      </Id>
-      <Source>f8a93d21-5988-cbc2-a495-39eee2c397ed</Source>
-	  <Target>Default</Target>
-      <Material>
-        <NormalmapTexture>Textures\MySprays\NoNormalMap</NormalmapTexture>
-        <ColorMetalTexture>Textures\MySprays\f8a93d21-5988-cbc2-a495-39eee2c397ed_0_c.dds</ColorMetalTexture>
-        <AlphamaskTexture>Textures\MySprays\f8a93d21-5988-cbc2-a495-39eee2c397ed_0_a.dds</AlphamaskTexture>
       </Material>
       <MinSize>1</MinSize>
       <MaxSize>1</MaxSize>
