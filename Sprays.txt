@@ -98,6 +98,11 @@ ID=5b9366da-391f-7318-9464-59cc1d67a51d
 Group=gifs
 Flags=168296452
 
+[KST_StarCore_Logo_Neon]
+ID=097ad56f-b7f2-7837-55ce-c715553ab838
+Group=KST
+Flags=0
+
 [MCR1]
 ID=8200593e-ed36-2fd3-e980-56e42a2f668f
 Group=MCR
